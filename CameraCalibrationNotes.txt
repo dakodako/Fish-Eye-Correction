@@ -1,0 +1,5 @@
+Resources:
+https://www.cvg.ethz.ch/teaching/cvl/2012/Tutorial-OpenCV.pdf
+http://aishack.in/tutorials/calibrating-undistorting-opencv-oh-yeah/
+
+!The sample codes provided by OpenCV doesn't work for my case.
